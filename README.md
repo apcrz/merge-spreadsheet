@@ -36,5 +36,5 @@ pnpm add xlsx
 
 ## Licença
 
-Esse projeto é livre para usar e modificar. Veja a licença completa no arquivo [LICENSE].
+Esse projeto é livre para usar e modificar. Veja a licença completa no arquivo [LICENSE](LICENSE).
 
